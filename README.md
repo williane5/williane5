@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @williane5
 - 👀 I’m interested in work in the area of analysis and systems development. Learn more and more every day and grow on this path.
-- 🌱 I’m currently learning programming language, algorithms and javascript.
+- 🌱 I’m currently learning programming language, algorithms, html5, css3 and javascript.
 - 💞️ I’m looking to collaborate on everything I can.
 - 📫 How to reach me: this is my e-mail williane5@gmail.com.
 
